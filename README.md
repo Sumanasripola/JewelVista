@@ -2,7 +2,6 @@
 
 **JewelVista** is an immersive e-commerce platform built with React, featuring a virtual reality shopping mall, an augmented reality try-on experience, and a dynamic 3D model viewer. This project redefines online jewelry shopping by providing a rich, interactive, and modern user experience.
 
----
 
 ## 📝 Project Description
 
@@ -15,7 +14,6 @@ Customers can:
 
 This system enhances customer engagement and strengthens brand reputation in the digital marketplace.
 
----
 
 ## 📚 Table of Contents
 
@@ -25,7 +23,7 @@ This system enhances customer engagement and strengthens brand reputation in the
 - [Usage](#-usage)
 - [API Endpoints](#-api-endpoints)
 
----
+
 
 ## ✨ Features
 
@@ -44,7 +42,7 @@ This system enhances customer engagement and strengthens brand reputation in the
 - **Responsive Design**  
   Fully responsive and accessible on both desktop and mobile devices.
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -55,25 +53,25 @@ This system enhances customer engagement and strengthens brand reputation in the
 - **React Router DOM** – Declarative routing for React apps  
 - **Unity WebGL** – For embedding the virtual mall into the web platform
 
----
+
 
 ## ⚙️ Setup and Installation
 
 1. **Clone the repository:**
 
-
-    - git clone <repository_url>
-    - cd JewelVista_web
-
+```bash
+     git clone <repository_url>
+```
+```bash
+     cd JewelVista_web
+```
 
 2. **Install dependencies:**
 
+```bash
+   npm install
+```
 
-    - npm install
-
-
-
----
 
 ## 🚀 Usage
 
@@ -85,7 +83,7 @@ npm run dev
 
 The application will be accessible at [http://localhost:5173](http://localhost:5173) (or a similar address provided by Vite).
 
----
+
 
 ## 🔗 API Endpoints
 
